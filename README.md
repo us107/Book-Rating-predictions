@@ -1,4 +1,4 @@
-# Book Recommendation System
+# Book Rating Prediction
 
 A project to predict **Book-Ratings** using user-book interaction data, simulating real-world recommendation systems.
 
